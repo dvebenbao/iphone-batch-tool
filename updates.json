@@ -1,0 +1,15 @@
+{
+  "app": "iPhoneBatchTool",
+    "latest": {
+          "version": "1.48",
+          "download_url": "",
+          "release_notes": "",
+          "publish_time": ""
+    },
+    "ad": {
+          "enabled": false,
+          "text": "",
+          "image_url": "",
+          "link_url": ""
+    }
+}
