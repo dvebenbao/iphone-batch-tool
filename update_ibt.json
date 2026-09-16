@@ -1,1 +1,1 @@
-{"version": "1.52", "url": "https://github.com/dvebenbao/iphone-batch-tool/releases/download/v1.52/iPhoneBatchTool_Setup_v1.52.exe", "note": "修复安装包内容 + 自动下载后自动安装"}
+{"version": "1.53", "url": "https://github.com/dvebenbao/iphone-batch-tool/releases/download/v1.53/iPhoneBatchTool_Setup_v1.53.exe", "note": "修复：恢复完成误判为失败（文件总数口径+等待时长）；新增自动安装"}
